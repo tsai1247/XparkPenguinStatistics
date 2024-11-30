@@ -8,7 +8,7 @@
 
 ## 步驟
 
-1. 安裝這個 Extension
+1. 安裝這個 Extension(目前應用程式商店審核中，成功前只能自己封裝了)
    1. 進入 Github 網址 https://github.com/tsai1247/XparkPenguinStatistics/releases/tag/v1.0.0
    2. 下載整包檔案 ![Install_1](images/READMEIMAGE/install_1.png) 並解壓縮
    3. 到 chrome://extensions/
