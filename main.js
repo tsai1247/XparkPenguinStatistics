@@ -87,7 +87,7 @@ function findMatchingDivs(searchTexts) {
   // 計算每個搜尋文字的匹配數量
   const matchResults = searchTexts.map((searchText) => {
     const matchingDivs = Array.from(divs).filter((div) =>
-      div.textContent.includes(searchText)
+      div.textContent.replace(" ", "").includes(searchTex.replace(" ", ""))
     );
     return {
       searchText: searchText,
